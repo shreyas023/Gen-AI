@@ -7,4 +7,3 @@
 4. After installing dependencies, start the project
     `npm start`
 
-## Run the project on `http://localhost:8080`

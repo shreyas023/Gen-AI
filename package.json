@@ -1,0 +1,21 @@
+{
+  "name": "gen-ai",
+  "version": "1.0.0",
+  "description": "Testing the latest npm package @google generative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev": "node index.js"
+  },
+  "author": "Shreyas Bailkar",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.13.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "import": "^0.0.6",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7"
+  }
+}
